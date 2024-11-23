@@ -1,0 +1,5 @@
+[
+    { "id": 1, "titulo": "Pizza Margherita", "descripcion": "Pizza con tomate y mozzarella", "precio": 8.50, "imagen": "pizza.jpg", "categoria_id": 1 },
+    { "id": 2, "titulo": "Hamburguesa", "descripcion": "Hamburguesa con carne, queso y lechuga", "precio": 5.00, "imagen": "hamburguesa.jpg", "categoria_id": 2 }
+  ]
+  

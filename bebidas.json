@@ -1,0 +1,4 @@
+[
+  { "id": 1, "titulo": "Coca-Cola", "descripcion": "Bebida gaseosa", "precio": 1.50, "imagen": "coca-cola.jpg", "cantidad": 100, "categoria_id": 4 },
+  { "id": 2, "titulo": "Agua Mineral", "descripcion": "Agua natural", "precio": 1.00, "imagen": "agua.jpg", "cantidad": 50, "categoria_id": 4 }
+]
